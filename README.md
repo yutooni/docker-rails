@@ -1,7 +1,7 @@
 # README
 
 ## ビルド
-docker build
+docker-compose build
 
 ##　サーバーの立ち上げ方法
 docker-compose up
