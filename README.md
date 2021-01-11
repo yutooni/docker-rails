@@ -4,7 +4,7 @@
 docker-compose build
 
 ##　サーバーの立ち上げ方法
-docker-compose up
+docker-compose up (rails server の代わり)
 
 ##　コマンド操作方法
-docker-compose run web ~~~
+docker-compose run web rails ~~
